@@ -28,5 +28,4 @@ console.log("Original studentName:", studentName);
 studentName = "Not Davin Dacio";
 console.log("Updated studentName:", studentName);
 console.log("Age:", age);
-age = 17;
-console.log("Age:", age);
+//age = 17; This doesn't work because age is a const
